@@ -2,7 +2,7 @@
 
 Perform sentiment analysis on Twitter data to analyze public opinions and sentiments using natural language processing (NLP) techniques. This project aims to categorize tweets as positive, negative, or neutral, providing insights into the sentiment trends surrounding a specific topic.
 
-![Sentiment Analysis](https://drive.google.com/file/d/1Fewr4rkfZnrl__g88RWE2aixqNBFS9jB/view?usp=sharing)
+![Sentiment Analysis](https://github.com/iamchaitanya7/twitter_sentiment_analysis/blob/main/tweepy.jpg)
 
 ## Table of Contents
 
